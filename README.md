@@ -178,3 +178,8 @@ Open the UI:
 ![Real-Time Dashboard](/screenshot.png)
 
 ### Live Real-Time Dashboard Recording
+
+https://github.com/user-attachments/assets/8ced803d-1f9c-4926-8610-bf5d1248f3b0
+
+
+
